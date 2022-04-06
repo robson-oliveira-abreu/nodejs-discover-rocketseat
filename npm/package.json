@@ -1,0 +1,19 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "aprendendo node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "learning",
+    "node"
+  ],
+  "author": "Robson Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "cfonts": "^2.10.1",
+    "moment": "^1.5.1"
+  }
+}
